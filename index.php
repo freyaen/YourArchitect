@@ -363,10 +363,10 @@ $arsitek = $conn->query("SELECT * FROM user WHERE role = 'architect'");
 
           <div class="col-lg-6 mt-4">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="img/archi/3.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="img/archi/3.jpeg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Vincentius Hadi Soetjiadi</h4>
-                <span>Dedign Interior and Real Estate</span>
+                <span>Design Interior and Real Estate</span>
                 <p>At Incentius Hadi Soetjiadi, we specialize in both interior design and real estate, offering a comprehensive approach to creating spaces that are both aesthetically pleasing and functionally practical.</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
@@ -380,7 +380,7 @@ $arsitek = $conn->query("SELECT * FROM user WHERE role = 'architect'");
 
           <div class="col-lg-6 mt-4">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="img/archi/4.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="img/archi/4.jpeg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Budi Pradone</h4>
                 <span>Arsitek Residential</span>
