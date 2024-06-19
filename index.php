@@ -336,10 +336,10 @@ $arsitek = $conn->query("SELECT * FROM user WHERE role = 'architect'");
                 <span>Queen of Curve</span>
                 <p>Zaha Hadid was an architect known for her radical deconstructivist designs1.She was the first woman to be awarded the Pritzker Architecture Prize, in 2004</p>
                 <div class="social">
-                  <a href=""><i class="ri-twitter-fill"></i></a>
-                  <a href=""><i class="ri-facebook-fill"></i></a>
-                  <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                  <a href="https://x.com/"><i class="ri-twitter-fill"></i></a>
+                  <a href="https://facebook.com/"><i class="ri-facebook-fill"></i></a>
+                  <a href="https://www.instagram.com/"><i class="ri-instagram-fill"></i></a>
+                  <a href="https://www.linkedin.com/"> <i class="ri-linkedin-box-fill"></i> </a>
                 </div>
               </div>
             </div>
@@ -352,10 +352,10 @@ $arsitek = $conn->query("SELECT * FROM user WHERE role = 'architect'");
                 <span>Architect of a Thousand Mosques</span>
                 <p> known for dedicating his life to building mosques, earning him the nickname "Maestro of Indonesian Mosque Architecture".</p>
                 <div class="social">
-                  <a href=""><i class="ri-twitter-fill"></i></a>
-                  <a href=""><i class="ri-facebook-fill"></i></a>
-                  <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                  <a href="https://x.com/"><i class="ri-twitter-fill"></i></a>
+                  <a href="https://facebook.com/"><i class="ri-facebook-fill"></i></a>
+                  <a href="https://www.instagram.com/"><i class="ri-instagram-fill"></i></a>
+                  <a href="https://www.linkedin.com/"> <i class="ri-linkedin-box-fill"></i> </a>
                 </div>
               </div>
             </div>
@@ -369,10 +369,10 @@ $arsitek = $conn->query("SELECT * FROM user WHERE role = 'architect'");
                 <span>Design Interior and Real Estate</span>
                 <p>At Incentius Hadi Soetjiadi, we specialize in both interior design and real estate, offering a comprehensive approach to creating spaces that are both aesthetically pleasing and functionally practical.</p>
                 <div class="social">
-                  <a href=""><i class="ri-twitter-fill"></i></a>
-                  <a href=""><i class="ri-facebook-fill"></i></a>
-                  <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                  <a href="https://x.com/"><i class="ri-twitter-fill"></i></a>
+                  <a href="https://facebook.com/"><i class="ri-facebook-fill"></i></a>
+                  <a href="https://instagram.com/"><i class="ri-instagram-fill"></i></a>
+                  <a href="https://linkedin.com/"> <i class="ri-linkedin-box-fill"></i> </a>
                 </div>
               </div>
             </div>
@@ -386,10 +386,10 @@ $arsitek = $conn->query("SELECT * FROM user WHERE role = 'architect'");
                 <span>Arsitek Residential</span>
                 <p>Budi Pradone is your go-to expert for residential architecture. With a passion for crafting spaces that seamlessly blend functionality with beauty, Budi specializes in creating homes that reflect the unique lifestyles and personalities of their occupants.</p>
                 <div class="social">
-                  <a href=""><i class="ri-twitter-fill"></i></a>
-                  <a href=""><i class="ri-facebook-fill"></i></a>
-                  <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                  <a href="https://x.com/"><i class="ri-twitter-fill"></i></a>
+                  <a href="https://facebook.com/"><i class="ri-facebook-fill"></i></a>
+                  <a href="https://instagram.com/"><i class="ri-instagram-fill"></i></a>
+                  <a href="https://linkedin.com/"> <i class="ri-linkedin-box-fill"></i> </a>
                 </div>
               </div>
             </div>
@@ -496,12 +496,12 @@ $arsitek = $conn->query("SELECT * FROM user WHERE role = 'architect'");
                 <strong>Email:</strong> YourArchi@example.com<br>
               </p>
               <div class="social-links mt-3">
-                <a href="#" class="facebook"><i
+                <a href="https://facebook.com/" class="facebook"><i
                     class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                <a href="https://instagram.com/" class="instagram"><i class="bx bxl-instagram"></i></a>
+                <a href="https://x.com/" class="twitter"><i class="bx bxl-twitter"></i></a>
+                <a href="https://skype.com/" class="google-plus"><i class="bx bxl-skype"></i></a>
+                <a href="https://linkedin.com/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
               </div>
             </div>
           </div>
@@ -517,7 +517,7 @@ $arsitek = $conn->query("SELECT * FROM user WHERE role = 'architect'");
             </ul>
           </div>
 
-          <div class="col-lg-3 col-md-6 footer-links">
+          <!-- <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
@@ -526,7 +526,7 @@ $arsitek = $conn->query("SELECT * FROM user WHERE role = 'architect'");
               <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
             </ul>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
